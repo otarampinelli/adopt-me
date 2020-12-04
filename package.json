@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/otarampinelli/adopt-me#readme",
   "devDependencies": {
+    "eslint": "^7.14.0",
+    "eslint-config-prettier": "^6.15.0",
     "prettier": "^2.2.1"
   }
 }
