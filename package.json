@@ -37,8 +37,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
-  "browserlist": [
-    "last 10 Chrome versions",
-    "last 10 Firefox versions"
+  "browserslist": [
+    "since 2018-06"
   ]
 }
